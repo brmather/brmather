@@ -1,5 +1,3 @@
- # :earth_asia:
-
 I am a Postdoc in the [EarthByte Group](http://www.earthbyte.org) at the [University of Sydney, School of Geosciences](https://www.sydney.edu.au/science/schools/school-of-geosciences.html).
 I am interested in the inversion of thermochemical properties of the lithosphere subject to available geophysical data and their uncertainties.
 Inversions that couple multiple datasets ultimately improve the precision and understanding of the thermochemical evolution of the Earth.
